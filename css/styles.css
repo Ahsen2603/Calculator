@@ -1,0 +1,22 @@
+*
+{
+  margin: 0px;
+  padding: 0px; 
+  box-sizing: border-box;
+  font-family: Oswald
+}
+body 
+{
+  display: 
+  justify-content: center;
+  align items: center;
+  min-height: 150vh;
+  background: #333
+}
+.calculator
+{
+  position: relative
+  width: 100px;
+}
+  
+  
