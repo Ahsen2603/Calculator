@@ -1,6 +1,6 @@
-let buttons = document.querySelector('.buttons');
-let btn = buttons.querySelectorAll('span');
-let value = document.getElementById('value');
+let buttons = document.querySelector('.buttons');    // This query selects the relevant classes assigned
+let btn = buttons.querySelectorAll('span');            // This query selects the relevant classes assigned
+let value = document.getElementById('value');        // This query selects the relevant classes assigned
 
 for(let i=0; i<btn.length; i++){                        //
     btn[i].addEventListener('click', function(){
